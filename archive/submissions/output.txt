@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 Bogdan 197121 101 Mar 18 13:59 input.txt
+-rw-r--r-- 1 Bogdan 197121   0 Mar 18 14:00 output.txt
+-rw-r--r-- 1 Bogdan 197121  42 Mar 18 13:45 test1.txt
+-rw-r--r-- 1 Bogdan 197121  60 Mar 18 13:52 test2.txt

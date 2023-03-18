@@ -8,9 +8,9 @@ from selenium.webdriver.common.by import By
 
 PROMISED_DOWN = 150
 PROMISED_UP = 0
-CHROME_DRIVER_PATH = "D:\python\selenium\chromedriver.exe"
-TWITTER_EMAIL = "howchromium@gmail.com"
-TWITTER_PASSWORD = "master 0f n0ne"
+CHROME_DRIVER_PATH = ""
+TWITTER_EMAIL = ""
+TWITTER_PASSWORD = ""
 URL = "https://www.speedtest.net/"
 TWITTER_URL = "https://twitter.com/home"
 
